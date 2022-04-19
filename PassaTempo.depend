@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1650262473 source:/home/marcos/projeto_c/sei_la/PassaTempo/main.cpp
+	<vector>
+	<iostream>
+	<cstdlib>
+
+1650345030 source:/home/marcos/projeto_c/PassaTempo/main.cpp
+	<vector>
+	<iostream>
+	<ctime>
+	<random>
+
